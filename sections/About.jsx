@@ -20,7 +20,7 @@ const About = () => (
                 }
             >
             <TypingText 
-                title="| About Metaversus"
+                title="| About Ride Reality"
                 textStyles="text-center"
             />
 

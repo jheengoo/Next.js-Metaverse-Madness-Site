@@ -21,7 +21,7 @@ const Navbar = () => (
                 width={24}
                 height={24}
             />
-            <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">metaversus</h2>
+            <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">ride reality</h2>
             <img
                 src="assets/menu.svg"
                 alt="hamburger menu icon"

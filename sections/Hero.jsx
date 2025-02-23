@@ -17,15 +17,15 @@ const Hero = () => (
           <motion.h1
             variants={ textVariant(1.1) }
             className={ styles.heroHeading }>
-            metaverse
+            Ride
           </motion.h1>
           <motion.div
             variants={ textVariant(1.2) }
             className="flex justify-center items-center">
             <h1 className="flex items-center">
-              <span className={ styles.heroHeading }>Ma</span>
-              <div className={ styles.heroDText } />
-              <span className={ styles.heroHeading }>ness</span>
+              <span className={ styles.heroHeading }>Rea</span>
+              <div className={ styles.heroLText } />
+              <span className={ styles.heroHeading }>ity</span>
             </h1>
           </motion.div>
         </div>
@@ -51,7 +51,7 @@ const Hero = () => (
                       ease: "easeIn",
                       duration: 20
                     }}
-                    src="assets/stamp.png"
+                    src="assets/rr_stamp_cpttnobg.png"
                     alt="A circular image with the words 'explore and enter the metaverse' around the edge and a mouse icon in the middle"
                     className="sm:w-[155px] w-[100px] sm:h-[155px] h-[155px] circular-CTA object-contain"
                   />
